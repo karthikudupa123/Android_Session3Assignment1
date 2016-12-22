@@ -1,0 +1,4 @@
+Main method is missing which causes the program to terminate at the runtime with the error Main method not found in class Test.
+
+So option B
+It will throw a NoSuchMethod error at runtime.
